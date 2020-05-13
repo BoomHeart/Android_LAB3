@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="字体大小"
+           android:id="@+id/men_1"/>
+    <item android:title="普通菜单项"
+        android:id="@+id/men_2"/>
+    <item android:title="字体颜色"
+        android:id="@+id/men_3"/>
+</menu>

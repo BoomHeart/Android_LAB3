@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LAB3_XML</string>
+        <string name="button_listView">展示ListView的用法</string>
+        <string name="button_alertDialog">展示AlertDialog的用法</string>
+        <string name="button_xmlMenu">展示XmlMenu的用法</string>
+        <string name="button_actionMenu">展示ActionMenu的用法</string>
+        <string name="username_hint">Username</string>
+        <string name="password_hint">Password</string>
+        <string name="xmlMenu_content">用于测试的内容</string>
+        <string name="activity_dialog_content">弹出AlertDialog</string>
+        <string name="action_menu">删除</string>
+</resources>
