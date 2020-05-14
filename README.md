@@ -668,7 +668,7 @@ public class MainActivity extends ListActivity {
   }
   ```
   
-  运行结果(存在bug似乎无法正常运行)：
+  运行结果(存在bug似乎部分功能无法正常运行)：
   
   ![pic](https://github.com/BoomHeart/Android_LAB3/blob/master/LAB3_ActionMode/1.png)
 
