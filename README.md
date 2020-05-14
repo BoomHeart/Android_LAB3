@@ -518,7 +518,9 @@ activity_main.xml:
     </ListView>
 </LinearLayout>
 ```
+MainActivity:
 
+```java
 package com.example.a1.lab3_actionmode;
 
 //import android.support.v7.app.AppCompatActivity;
