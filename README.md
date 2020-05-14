@@ -184,6 +184,7 @@ public class android_ListView extends AppCompatActivity{
 ```
 
 运行结果：
+
 ![picture](https://github.com/BoomHeart/Android_LAB3/blob/master/LAB3/1.png)
 
 ### 2、创建自定义布局的AlertDialog
@@ -287,7 +288,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 运行结果：
 
-![picture]()
+![picture](https://github.com/BoomHeart/Android_LAB3/blob/master/LAB3_alterdialog/2.png)
 
 ### 3、使用XML定义菜单
 
@@ -667,3 +668,4 @@ public class MainActivity extends ListActivity {
   
   运行结果：
   
+  ![pic](https://github.com/BoomHeart/Android_LAB3/blob/master/LAB3_ActionMode/1.png)
