@@ -184,7 +184,7 @@ public class android_ListView extends AppCompatActivity{
 ```
 
 运行结果：
-![picture] (https://github.com/BoomHeart/Android_LAB3/blob/master/LAB3/1.png)
+![picture](https://github.com/BoomHeart/Android_LAB3/blob/master/LAB3/1.png)
 
 ### 2、创建自定义布局的AlertDialog
 
